@@ -1,8 +1,9 @@
 # Implantación de una web estática con Apache
 
-1. Crear el directorio en /var/www (más tarde crearemos el otro con mkdocs)
+1. Crear los directorios en /var/www
 * cd /var/www
 	* sudo mkdir iaw2425
+	* sudo mkdir doc-iaw2425
 
 
 2. Copiar el archivo default para modificarlo
@@ -33,11 +34,5 @@
 	* mkdocs new docu-iaw2425
 	* cd docu-iaw2425
 	* sudo nano ??
-
-
-
-6. 
-
-
 
 
